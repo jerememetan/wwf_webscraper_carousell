@@ -12,7 +12,7 @@ from helper import read_illegal_keywords
 import os
 
 # --- Setup ---
-search_term = "🐘"
+search_term = "elephant"
 
 keywords_file_path = 'data/ALLDATA.csv'
 
